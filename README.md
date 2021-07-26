@@ -13,8 +13,9 @@ _Even though there is no strict time limit, you should expect to take 3-5 hours 
 2. Create a new branch by visiting https://gitlab.com/`YOUR-GITLAB`/mission-control/-/branches - name your branch after your `firstname-lastname`.
 3. At this point, you can grab the SSH URL at the top of https://gitlab.com/`YOUR-GITLAB`/mission-control, clone the repository locally, and do your work on the newly created branch.
 4. Visit https://gitlab.com/`YOUR-GITLAB`/mission-control/-/project_members under "Invite Member" type in `doximity-review` under "GitLab member", select a role of `Maintainer`, and click "Invite".
-5. Once you are ready to submit your work, go back to https://gitlab.com/`YOUR-GITLAB`/mission-control and click on "Create merge Request" on the top right.
-6. From the page above, title and describe your assignment. Then select `doximity-review` from the "Assignee" dropdown, and click the "Submit merge request" button.
+5. Visit https://gitlab.com/<YOUR_USERNAME>/mission-control/edit and enable: Merge Requests (don't forget to save) under Visibility, Project Features, Permissions.
+6. Once you are ready to submit your work, go back to https://gitlab.com/`YOUR-GITLAB`/mission-control and click on "Create merge Request" on the top right.
+7. From the page above, title and describe your assignment. Then select `doximity-review` from the "Assignee" dropdown, and click the "Submit merge request" button.
 
 ## Launch Requirements
 
